@@ -1,5 +1,7 @@
 # zabbix-check-mdadm2
 
+**This version is archived. It still should work on OS's with python2 and small changes with python3 too. A newer simpler version in POSIX sh can be found here: [zabbix-check-mdadm3 ](https://github.com/zabbix-deb/zabbix-check-mdadm3)**
+
 ## Description
 
 A script to monitor mdadm RAID with [Zabbix](https://zabbix.com).
